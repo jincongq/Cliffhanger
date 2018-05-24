@@ -1,0 +1,10 @@
+- game start and game end animation 
+- beginning game video
+- add name
+- date 
+- achievements 
+- credits 
+- change expression
+- water swirling 
+- warning signs as finger numbers
+
